@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Greedy heuristics and linear relaxations for the random hitting set problem"
+date:   2023-05-09 15:43:00 +00:00
+image: /images/greedy-pic.png
+categories: research
+author: "Daniil Dmitriev"
+subtitle: "preprint"
+authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto"
+venue: "preprint"
+arxiv: https://arxiv.org/abs/1705.07640
+---
+
+Proved that the standard greedy algorithm is optimal for the hitting set problem in the random bernoulli case.
+
+<!-- [Poster PDF](/pdfs/i3d_2013.pdf){:target="_blank"} -->
+
+<!-- [ACM Citation](http://dl.acm.org/citation.cfm?id=2448232){:target="_blank"} -->
+
+[arXiv link](https://arxiv.org/abs/1705.07640){:target="_blank"}

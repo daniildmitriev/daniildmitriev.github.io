@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Dynamic model pruning with feedback"
+date:   2020-03-01 15:43:00 +00:00
+image: /images/pruning.png
+categories: research
+author: "Daniil Dmitriev"
+subtitle: ""
+authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
+venue: "ICLR"
+arxiv: https://arxiv.org/abs/2006.07253
+---
+
+Proposed a novel model compression method that generates a sparse trained model without additional overhead.
+
+[arXiv link](https://arxiv.org/abs/2006.07253){:target="_blank"}

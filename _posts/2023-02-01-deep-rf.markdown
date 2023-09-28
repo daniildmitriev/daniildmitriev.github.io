@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Deterministic equivalent and error universality of deep random features learning"
+date:   2023-02-01 15:43:00 +00:00
+image: /images/deep-rf.png
+categories: research
+author: "Daniil Dmitriev"
+subtitle: ""
+authors: "Dominik Schröder, Hugo Cui, <strong>Daniil Dmitriev</strong>, Bruno Loureiro"
+venue: "ICML"
+arxiv: https://arxiv.org/abs/2302.00401
+poster: /pdfs/deep-rf-poster.pdf
+---
+
+Rigorously established Gaussian universality for the test error in ridge regression in deep networks with frozen intermediate layers.
+
+[Poster PDF](/pdfs/deep-rf-poster){:target="_blank"}
+
+<!-- [ACM Citation](http://dl.acm.org/citation.cfm?id=2448232){:target="_blank"} -->
+
+[arXiv link](https://arxiv.org/abs/2302.00401){:target="_blank"}
