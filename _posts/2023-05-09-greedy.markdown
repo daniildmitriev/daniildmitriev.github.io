@@ -8,7 +8,7 @@ author: "Daniil Dmitriev"
 subtitle: "preprint"
 authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto"
 venue: "preprint"
-arxiv: https://arxiv.org/abs/1705.07640
+arxiv: https://arxiv.org/abs/2305.05565
 ---
 
 Proved that the standard greedy algorithm is optimal for the hitting set problem in the random bernoulli case.
@@ -17,4 +17,4 @@ Proved that the standard greedy algorithm is optimal for the hitting set problem
 
 <!-- [ACM Citation](http://dl.acm.org/citation.cfm?id=2448232){:target="_blank"} -->
 
-[arXiv link](https://arxiv.org/abs/1705.07640){:target="_blank"}
+[arXiv link](https://arxiv.org/abs/2305.05565){:target="_blank"}
