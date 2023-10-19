@@ -6,7 +6,7 @@ image: /images/greedy-pic.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
-authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto (alphabetic order)"
+authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto (alphabetical order)"
 venue: "preprint"
 arxiv: https://arxiv.org/abs/2305.05565
 ---
