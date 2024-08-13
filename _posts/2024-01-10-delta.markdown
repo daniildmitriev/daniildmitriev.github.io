@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lower bounds for online private learning"
+date:   2024-01-10 15:43:00 +00:00
+# image: /images/pruning.png
+categories: talk
+author: "Daniil Dmitriev"
+subtitle: ""
+# authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
+venue: "Delta seminar, University of Copenhagen"
+website: https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-daniil-dmitrievs/
+---

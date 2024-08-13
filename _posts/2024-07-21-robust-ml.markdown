@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Robust mixture learning when outliers overwhelm small groups"
+date:   2024-07-21 15:43:00 +00:00
+image: /images/robust-ml.png
+categories: research
+author: "Daniil Dmitriev"
+subtitle: "preprint"
+authors: "<strong>Daniil Dmitriev</strong>*, Rares-Darius Buhai*, Stefan Tiegel, Alexander Wolters, Gleb Novikov, Amartya Sanyal, David Steurer, Fanny Yang"
+venue: "under review"
+arxiv: https://arxiv.org/abs/2407.15792
+poster: /pdfs/robust-ml-poster.pdf
+---
+
+Proposed an efficient meta-algorithm for recoving means of a mixture model in the presence of large additive contaminations.
+
+[Poster PDF](/pdfs/robust-ml-poster.pdf){:target="_blank"}
+
+<!-- [ACM Citation](http://dl.acm.org/citation.cfm?id=2448232){:target="_blank"} -->
+
+[arXiv link](https://arxiv.org/abs/2407.15792){:target="_blank"}

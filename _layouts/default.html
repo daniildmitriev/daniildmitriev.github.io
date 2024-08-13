@@ -43,13 +43,13 @@
                 <br> My PhD advisors are <a href="https://people.math.ethz.ch/~abandeira/">Afonso Bandeira</a> and <a href="https://sml.inf.ethz.ch/group/fannyy/">Fanny Yang</a>.
               </p>
               <p>
-                I have a MS in Data Science from <a href="http://epfl.ch">EPFL</a>, where I was a research assistant for <a href="http://mlo.epfl.ch/">Martin Jaggi</a> working on optimization in machine learning. 
-                For my master thesis on statistical physics in neural network theory I was supervised by <a href="https://www.epfl.ch/labs/spoc/">Lenka Zdeborová</a>.
+                I am broadly interested in topics at the intersection of mathematics, theoretical cs and machine learning.
+                Currently fascinated about randomness-structure interplay in the algorithm analysis.
               </p>
               <p>
-                I am broadly interested in topics at the intersection of mathematics, theoretical computer science and machine learning.
-                In particular, I am working currently on robustness, privacy and random matrix theory.
+                I have a MS in Data Science from <a href="http://epfl.ch">EPFL</a>, where I worked with <a href="https://www.epfl.ch/labs/spoc/">Lenka Zdeborová</a> and <a href="http://mlo.epfl.ch/">Martin Jaggi</a>.
               </p>
+              
               <p style="text-align:center">
                 <a href="/pdfs/resume_23.pdf"> CV </a> &nbsp;/&nbsp;
                 <a target="_blank" href="https://mailhide.io/e/ZniB5ozt"> Email</a> &nbsp;/&nbsp;
@@ -129,6 +129,9 @@
               <br>
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.website %}
+              <a href="{{post.website}}">website</a> /
               {% endif %}
               {{ post.excerpt }}
             </td>

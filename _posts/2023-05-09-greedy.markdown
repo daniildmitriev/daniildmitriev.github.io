@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Greedy heuristics and linear relaxations for the random hitting set problem"
-date:   2023-05-09 15:43:00 +00:00
+date:   2024-01-09 15:43:00 +00:00
 image: /images/greedy-pic.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
-authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto (alphabetical order)"
-venue: "preprint"
+authors: "Gabriel Arpino, <strong>Daniil Dmitriev</strong>, Nicolo Grometto (αβ order)"
+venue: "APPROX"
 arxiv: https://arxiv.org/abs/2305.05565
 ---
 
