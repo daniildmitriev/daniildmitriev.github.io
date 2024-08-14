@@ -7,6 +7,6 @@ categories: talk
 author: "Daniil Dmitriev"
 subtitle: ""
 # authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
-venue: "Workshop on Spin Glasses"
+venue: "Workshop on Spin Glasse, Les Diablerets"
 video: https://www.youtube.com/watch?v=_RFmv9VtcVg
 ---
