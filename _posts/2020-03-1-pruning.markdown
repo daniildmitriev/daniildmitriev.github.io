@@ -11,6 +11,6 @@ venue: "ICLR"
 arxiv: https://arxiv.org/abs/2006.07253
 ---
 
-Proposed a novel model compression method that generates a sparse trained model without additional overhead.
+We propose a novel model compression method that generates a sparse trained model without additional overhead.
 
 [arXiv link](https://arxiv.org/abs/2006.07253){:target="_blank"}

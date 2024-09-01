@@ -12,7 +12,7 @@ arxiv: https://arxiv.org/abs/2402.16778
 poster: /pdfs/online-dp-poster.pdf
 ---
 
-Proved that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically.
+We prove that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically.
 
 [Poster PDF](/pdfs/robust-ml-poster.pdf){:target="_blank"}
 

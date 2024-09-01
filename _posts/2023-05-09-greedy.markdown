@@ -11,7 +11,7 @@ venue: "APPROX"
 arxiv: https://arxiv.org/abs/2305.05565
 ---
 
-Proved that the standard greedy algorithm is optimal for the hitting set problem in the random bernoulli case.
+We prove that the standard greedy algorithm is order-optimal for the hitting set problem in the random bernoulli case.
 
 <!-- [Poster PDF](/pdfs/i3d_2013.pdf){:target="_blank"} -->
 

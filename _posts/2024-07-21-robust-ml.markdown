@@ -12,7 +12,7 @@ arxiv: https://arxiv.org/abs/2407.15792
 poster: /pdfs/robust-ml-poster.pdf
 ---
 
-Proposed an efficient meta-algorithm for recoving means of a mixture model in the presence of large additive contaminations.
+We propose an efficient meta-algorithm for recoving means of a mixture model in the presence of large additive contaminations.
 
 [Poster PDF](/pdfs/robust-ml-poster.pdf){:target="_blank"}
 

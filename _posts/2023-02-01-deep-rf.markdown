@@ -13,7 +13,7 @@ poster: /pdfs/deep-rf-poster.pdf
 video: https://slideslive.com/39004217/deterministic-equivalent-and-error-universality-of-deep-random-features-learning
 ---
 
-Rigorously established Gaussian universality for the test error in ridge regression in deep networks with frozen intermediate layers.
+We rigorously establishe Gaussian universality for the test error in ridge regression in deep networks with frozen intermediate layers.
 
 [Poster PDF](/pdfs/deep-rf-poster){:target="_blank"}
 
