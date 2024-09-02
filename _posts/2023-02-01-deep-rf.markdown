@@ -6,7 +6,7 @@ image: /images/deep-rf.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: ""
-authors: "Dominik Schröder, Hugo Cui, <strong>Daniil Dmitriev</strong>, Bruno Loureiro"
+authors: "Dominik Schröder, Hugo Cui, <strong>DD</strong>, Bruno Loureiro"
 venue: "ICML"
 arxiv: https://arxiv.org/abs/2302.00401
 poster: /pdfs/deep-rf-poster.pdf

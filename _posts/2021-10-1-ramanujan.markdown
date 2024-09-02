@@ -6,7 +6,7 @@ image: /images/ramanujan.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: ""
-authors: "<strong>Daniil Dmitriev</strong>, Maksim Zhukovskii (αβ order)"
+authors: "<strong>DD</strong>, Maksim Zhukovskii (αβ order)"
 venue: "Statistics & Probability Letters"
 arxiv: https://arxiv.org/abs/1807.06527
 ---

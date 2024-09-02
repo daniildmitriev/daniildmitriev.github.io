@@ -6,7 +6,7 @@ image: /images/robust-ml.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
-authors: "<strong>Daniil Dmitriev</strong>*, Rares-Darius Buhai*, Stefan Tiegel, Alexander Wolters, Gleb Novikov, Amartya Sanyal, David Steurer, Fanny Yang"
+authors: "<strong>DD</strong>*, Rares-Darius Buhai*, Stefan Tiegel, Alexander Wolters, Gleb Novikov, Amartya Sanyal, David Steurer, Fanny Yang"
 venue: "under review"
 arxiv: https://arxiv.org/abs/2407.15792
 poster: /pdfs/robust-ml-poster.pdf

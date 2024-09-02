@@ -6,7 +6,7 @@ image: /images/pruning.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: ""
-authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
+authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>DD</strong>, Martin Jaggi"
 venue: "ICLR"
 arxiv: https://arxiv.org/abs/2006.07253
 ---

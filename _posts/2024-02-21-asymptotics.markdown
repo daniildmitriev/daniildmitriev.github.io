@@ -6,7 +6,7 @@ image: /images/real_det.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "ICML, 2024"
-authors: "Dominik Schröder*, <strong>Daniil Dmitriev</strong>*, Hugo Cui*, Bruno Loureiro"
+authors: "Dominik Schröder*, <strong>DD</strong>*, Hugo Cui*, Bruno Loureiro"
 venue: "ICML"
 arxiv: https://arxiv.org/abs/2402.13999
 poster: /pdfs/colored-rf-poster.pdf

@@ -6,7 +6,7 @@ image: /images/lowerbound-dp.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
-authors: "<strong>Daniil Dmitriev</strong>, Kristof Szabo, Amartya Sanyal"
+authors: "<strong>DD</strong>, Kristof Szabo, Amartya Sanyal"
 venue: "COLT"
 arxiv: https://arxiv.org/abs/2402.16778
 poster: /pdfs/online-dp-poster.pdf
