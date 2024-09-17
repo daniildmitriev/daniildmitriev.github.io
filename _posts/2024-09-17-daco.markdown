@@ -7,6 +7,6 @@ categories: talk
 author: "Daniil Dmitriev"
 subtitle: ""
 # authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
-venue: "DACO Seminar, ETH Zurich"
+venue: "DACO seminar, ETH Zurich"
 website: https://math.ethz.ch/news-and-events/events/research-seminars/daco-seminar.html
 ---
