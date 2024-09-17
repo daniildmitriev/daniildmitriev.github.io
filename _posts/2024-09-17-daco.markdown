@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Robust mixture learning when outliers overwhelm small groups"
+date:   2024-09-17 15:43:00 +00:00
+# image: /images/pruning.png
+categories: talk
+author: "Daniil Dmitriev"
+subtitle: ""
+# authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
+venue: "DACO Seminar, ETH Zurich"
+website: https://math.ethz.ch/news-and-events/events/research-seminars/daco-seminar.html
+---
