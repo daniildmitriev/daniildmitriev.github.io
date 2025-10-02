@@ -7,7 +7,7 @@ categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
 authors: "Afonso S. Bandeira, Jarosław Błasiok, <strong> DD</strong>, Ulysse Faure, Anastasia Kireeva, Dmitriy Kunisky (αβ order)"
-venue: "preprint"
+venue: "SampTA"
 arxiv: https://arxiv.org/abs/2502.16227
 ---
 
