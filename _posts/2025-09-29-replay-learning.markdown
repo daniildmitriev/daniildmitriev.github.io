@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Learning in an echo chamber: online learning with replay adversary"
-date:   2025-02-27 15:43:00 +00:00
+date:   2026-01-27 15:43:00 +00:00
 image: /images/replay-learning.png
 categories: research
 author: "Daniil Dmitriev"
-subtitle: "preprint"
+subtitle: "SODA"
 authors: "<strong> DD</strong>, Harald Eskelund Franck, Carolin Heinzler, Amartya Sanyal (αβ order)"
-venue: "preprint"
+venue: "SODA"
 arxiv: https://arxiv.org/abs/2509.25135
 ---
 
