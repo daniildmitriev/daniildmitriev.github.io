@@ -13,7 +13,7 @@ poster: /pdfs/colored-rf-poster.pdf
 ---
 
 We derive a deterministic equivalent for the generalization error of general Lipschitz functions.
-Furthermore, we prove a linearization for a sample covariance matrix of a structured random feature model with two hidden layers.
+Furthermore, we prove a linearization formula for a sample covariance matrix of a structured random feature model with two hidden layers.
 
 [Poster PDF](/pdfs/colored-rf-poster){:target="_blank"}
 
