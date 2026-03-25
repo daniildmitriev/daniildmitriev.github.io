@@ -6,7 +6,7 @@ image: /images/dontpanic_viz3.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
-authors: "<strong>DD</strong>*, Zhihan Huang*, Yuting Wei"
+authors: "<strong>DD</strong>*, Zhihan Huang*, Yuting Wei &nbsp &nbsp &nbsp &nbsp(* here and below denotes equal contribution)"
 venue: "preprint"
 arxiv: https://arxiv.org/abs/2602.15008
 ---
