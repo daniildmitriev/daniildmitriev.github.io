@@ -2,7 +2,7 @@
 layout: post
 title:  "Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees"
 date:   2026-02-18 15:43:00 +00:00
-image: /images/efficient-sampling.png
+image: /images/dontpanic_viz3.png
 categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
