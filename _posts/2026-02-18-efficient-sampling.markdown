@@ -7,7 +7,7 @@ categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
 authors: "<strong>DD</strong>*, Zhihan Huang*, Yuting Wei &nbsp &nbsp &nbsp &nbsp(* here and below denotes equal contribution)"
-venue: "preprint"
+venue: "COLT"
 arxiv: https://arxiv.org/abs/2602.15008
 ---
 
