@@ -7,6 +7,7 @@ categories: talk
 author: "Daniil Dmitriev"
 subtitle: ""
 # authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
-venue: "Delta seminar, University of Copenhagen"
+venue: "Delta seminar"
 website: https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-daniil-dmitrievs/
+location: "University of Copenhagen"
 ---

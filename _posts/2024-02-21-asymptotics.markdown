@@ -4,6 +4,7 @@ title:  "Asymptotics of learning with deep structured (random) features"
 date:   2024-02-21 15:43:00 +00:00
 image: /images/real_det.png
 categories: research
+research_area: probability
 author: "Daniil Dmitriev"
 subtitle: "ICML, 2024"
 authors: "Dominik Schröder*, <strong>DD</strong>*, Hugo Cui*, Bruno Loureiro"
@@ -12,8 +13,8 @@ arxiv: https://arxiv.org/abs/2402.13999
 poster: /pdfs/colored-rf-poster.pdf
 ---
 
-We derive a deterministic equivalent for the generalization error of general Lipschitz functions.
-Furthermore, we prove a linearization formula for a sample covariance matrix of a structured random feature model with two hidden layers.
+<!-- We derive a deterministic equivalent for the generalization error of general Lipschitz functions.
+Furthermore, we prove a linearization formula for a sample covariance matrix of a structured random feature model with two hidden layers. -->
 
 [Poster PDF](/pdfs/colored-rf-poster){:target="_blank"}
 

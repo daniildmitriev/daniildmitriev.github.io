@@ -1,0 +1,13 @@
+---
+layout: post
+# title:  "The Lovasz number of random circulant graphs"
+date:   2026-05-20 15:43:00 +00:00
+# image: /images/pruning.png
+categories: talk
+author: "Daniil Dmitriev"
+subtitle: ""
+# authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
+venue: "Foundations of Responsible Computing (FORC)"
+video: https://www.youtube.com/watch?v=jBQUBjrmTf8
+location: "Harvard"
+---

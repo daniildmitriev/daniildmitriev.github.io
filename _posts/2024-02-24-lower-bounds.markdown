@@ -7,12 +7,13 @@ categories: research
 author: "Daniil Dmitriev"
 subtitle: "preprint"
 authors: "<strong>DD</strong>, Kristof Szabo, Amartya Sanyal"
+research_area: learning
 venue: "COLT"
 arxiv: https://arxiv.org/abs/2402.16778
 poster: /pdfs/online-dp-poster.pdf
 ---
 
-We prove that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically with the time horizon.
+<!-- We prove that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically with the time horizon. -->
 
 [Poster PDF](/pdfs/robust-ml-poster.pdf){:target="_blank"}
 

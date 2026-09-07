@@ -4,6 +4,7 @@ title:  "Greedy heuristics and linear relaxations for the random hitting set pro
 date:   2024-01-09 15:43:00 +00:00
 image: /images/greedy-pic.png
 categories: research
+research_area: probability
 author: "Daniil Dmitriev"
 subtitle: "preprint"
 authors: "Gabriel Arpino, <strong>DD</strong>, Nicolo Grometto (αβ order)"
@@ -11,7 +12,7 @@ venue: "APPROX"
 arxiv: https://arxiv.org/abs/2305.05565
 ---
 
-We prove that the standard greedy algorithm is order-optimal for the hitting set problem in the random bernoulli case.
+<!-- We prove that the standard greedy algorithm is order-optimal for the hitting set problem in the random bernoulli case. -->
 
 <!-- [Poster PDF](/pdfs/i3d_2013.pdf){:target="_blank"} -->
 

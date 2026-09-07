@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Robust mixture learning when outliers overwhelm small groups"
-date:   2024-05-20 15:43:00 +00:00
+# title:  "The Lovasz number of random circulant graphs"
+date:   2026-08-20 15:43:00 +00:00
 # image: /images/pruning.png
 categories: talk
 author: "Daniil Dmitriev"
 subtitle: ""
 # authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
-venue: "Youth in High Dimensions"
-video: https://youtu.be/Y486VJRQeJI?&t=1921
-location: "ICTP"
+venue: "Learning-driven Algorithms and Machine-aided Proofs (LAMP)"
+location: "TTIC"
 ---
